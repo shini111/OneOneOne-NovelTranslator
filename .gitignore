@@ -1,0 +1,160 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# PyTorch Models and Cache
+models/
+.cache/
+transformers_cache/
+torch_cache/
+huggingface_cache/
+
+# Hugging Face
+.transformers_cache/
+.huggingface/
+
+# Translation Output
+translated_*/
+output_*/
+translations/
+*_translated.txt
+*_translated_*.txt
+
+# Glossaries (backup originals, ignore generated)
+*_updated.csv
+*_backup_*.csv
+
+# Logs
+*.log
+logs/
+processing_report.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Windows
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Large files that shouldn't be committed
+*.model
+*.bin
+*.safetensors
+*.h5
+*.onnx
+*.pt
+*.pth
+
+# Sample data (comment out if you want to include examples)
+# sample_novels/
+# test_documents/
+# example_glossaries/
+
+# Documentation build
+docs/_build/
+site/
+
+# PyCharm
+.idea/
+
+# Rope
+.ropeproject/
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/

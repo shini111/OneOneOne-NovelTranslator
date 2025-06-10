@@ -1,0 +1,39 @@
+# Advanced Hybrid Translation Tool - Requirements
+# Compatible with Python 3.9+
+
+# Core ML/AI Libraries
+torch>=2.6.0
+transformers>=4.40.0
+accelerate>=0.20.0
+
+# Translation Models Support
+sentencepiece>=0.1.97
+sacremoses>=0.0.53
+tokenizers>=0.15.0
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+openpyxl>=3.1.0
+
+# Data Processing & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web Interface (Optional)
+streamlit>=1.28.0
+
+# Utilities
+pathlib2>=2.3.7
+python-dateutil>=2.8.2
+
+# GPU Support (Optional - install based on your system)
+# For CUDA 12.1 (RTX 4060):
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# For CPU only:
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+# Development & Testing (Optional)
+# pytest>=7.0.0
+# black>=23.0.0

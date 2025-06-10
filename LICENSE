@@ -1,0 +1,52 @@
+MIT License
+
+Copyright (c) 2025 Advanced Hybrid Translation Tool
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+ATTRIBUTION REQUIREMENTS:
+
+When using, modifying, or distributing this software, you MUST:
+
+1. Keep the original copyright notice in all copies or substantial portions
+2. Credit the original author in any derivative works, documentation, or presentations
+3. Include this license text in all distributions
+4. Reference the original repository in any public usage or documentation
+
+Example required attribution:
+"Based on Advanced Hybrid Translation Tool by [Your Name]
+https://github.com/yourusername/advanced-hybrid-translator"
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+ADDITIONAL TERMS:
+
+1. COMMERCIAL USE: Permitted with attribution requirements above
+2. MODIFICATION: Allowed with attribution to original work
+3. DISTRIBUTION: Allowed with this license included
+4. PRIVATE USE: Allowed without restrictions
+5. PATENT USE: No patent rights granted
+
+THIRD-PARTY ACKNOWLEDGMENTS:
+
+This software uses the following open-source libraries:
+- PyTorch (BSD-3-Clause License)
+- Transformers by Hugging Face (Apache 2.0 License)
+- NLLB Models by Meta AI (CC-BY-NC 4.0 License)
+- Qwen Models by Alibaba Cloud (Apache 2.0 License)
+
+Users must comply with all applicable third-party licenses.
