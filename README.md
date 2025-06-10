@@ -1,4 +1,4 @@
-# 🚀 Advanced Hybrid Translation Tool
+# 🚀 OneOneOne NovelTranslator
 
 A powerful local machine translation system optimized for Korean ↔ English and other language pairs, featuring automated folder processing, interactive glossary learning, and hybrid AI refinement.
 
