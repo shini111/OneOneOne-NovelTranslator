@@ -42,8 +42,8 @@ A powerful local machine translation system optimized for Korean ↔ English and
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/advanced-hybrid-translator.git
-   cd advanced-hybrid-translator
+   git clone https://github.com/shini111/OneOneOne-NovelTranslator.git
+   cd OneOneOne-NovelTranslator
    ```
 
 2. **Create virtual environment**:
@@ -308,8 +308,8 @@ When using, modifying, or distributing this software, you must:
 **Example attribution:**
 ```
 Based on Advanced Hybrid Translation Tool
-Original work by [Your Name]
-https://github.com/yourusername/advanced-hybrid-translator
+Original work by [Xavier Lopes]
+https://github.com/shini111/OneOneOne-NovelTranslator
 ```
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
@@ -325,18 +325,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - **OpenNovel community** - For glossary format inspiration
 - **Korean web novel community** - For testing and feedback
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-### Areas for contribution:
-- 🌐 Additional language pair support
-- 🔧 Performance optimizations  
-- 📚 New glossary formats
-- 🎨 UI improvements
-- 📖 Documentation and tutorials
-- 🧪 Testing on different hardware setups
-
 ## ⚠️ Disclaimer
 
 This tool is for personal and educational use. Please respect:
@@ -350,5 +338,3 @@ The authors are not responsible for misuse of this tool or any legal issues aris
 ---
 
 **Made with ❤️ for the global translation community**
-
-*Bringing advanced AI translation to everyone, everywhere.*
