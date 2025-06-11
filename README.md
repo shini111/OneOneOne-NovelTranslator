@@ -21,7 +21,6 @@ A powerful local machine translation system optimized for Korean ↔ English and
 - **🔍 Auto-term detection** - AI identifies potential glossary terms
 - **💡 Smart suggestions** - Frequency-based and pattern-based recommendations  
 - **🎓 Interactive learning** - Review and approve new terms after translation
-- **📋 OpenNovel compatible** - Works with existing CSV glossaries
 - **💾 Auto-save updates** - Glossaries improve over time
 
 ### 🌐 **Language & Quality Features**
